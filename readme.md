@@ -2,8 +2,6 @@
 
 By Matthew Sanders—matt@optionshft.com
 
-<img src="http://matthewnsara.com/images/prospettiva-theme-preview.png" alt="Prospettiva Theme - Preview" />
-
 After the popularity of my CSS3 Bundle, Many have requested that I share the unique TextMate theme shown in the examples. Enjoy!
 
 ## Supported Editors
@@ -11,6 +9,10 @@ After the popularity of my CSS3 Bundle, Many have requested that I share the uni
 * TextMate
 
 ## Installation
+
+To install from within TextMate:
+
+Open Preferences and go to the Bundles tab, click on the Themes header and click the checkbox beside Prospettiva. After installation it will be automatically updated for you.
 
 To install via Git:
 
